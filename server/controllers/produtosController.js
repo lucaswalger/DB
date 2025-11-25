@@ -1,4 +1,4 @@
-const ProdutosModel = require("../models/produtosModel");
+const ProdutosModel = require("../routes/models/produtosModel");
 
 const ProdutosController = {
   async list(req, res) {

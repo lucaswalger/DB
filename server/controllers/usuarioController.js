@@ -1,4 +1,4 @@
-const Usuario = require("../models/usuarioModel");
+const Usuario = require("../routes/models/usuarioModel");
 
 module.exports = {
   // LISTAR TODOS OS USUÁRIOS

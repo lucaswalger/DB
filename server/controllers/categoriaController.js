@@ -1,4 +1,4 @@
-const Categoria = require("../models/categoriaModel");
+const Categoria = require("../routes/models/categoriaModel");
 
 module.exports = {
 
