@@ -1,4 +1,4 @@
-const ClientesModel = require("../routes/models/clientesModel");
+const ClientesModel = require("../models/clientesModel");
 
 const ClientesController = {
   async list(req, res) {

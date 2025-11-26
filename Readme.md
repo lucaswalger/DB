@@ -19,5 +19,3 @@ Em outro terminal, entre na pasta server:
  
  - npm i : instala as dependências
  - npm run server :  inicia o servidor
-# DB
-# DB

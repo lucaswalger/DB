@@ -3078,6 +3078,84 @@
           "quantidadeDisponivel": 25
         }
       ]
+    },
+    {
+      "id": "01bb",
+      "clienteId": "c018",
+      "clienteNome": "Loja Vitória",
+      "data": "2025-11-24",
+      "hora": "19:11:04",
+      "subtotal": "4501.44",
+      "desconto": "10",
+      "totalFinal": "4051.30",
+      "formaPagamento": "Crédito",
+      "observacoes": "Compra top",
+      "itens": [
+        {
+          "id": "p0001",
+          "nome": "Produto 1",
+          "SKU": "2525490852",
+          "precoVenda": 253.44,
+          "quantidadeSolicitada": 2,
+          "quantidadeDisponivel": 324
+        },
+        {
+          "id": "p0003",
+          "nome": "Produto 3",
+          "SKU": "7079389390",
+          "precoVenda": 728.95,
+          "quantidadeSolicitada": 2,
+          "quantidadeDisponivel": 303
+        },
+        {
+          "id": "p0002",
+          "nome": "Produto 2",
+          "SKU": "2208074431",
+          "precoVenda": 137.24,
+          "quantidadeSolicitada": 2,
+          "quantidadeDisponivel": 233
+        },
+        {
+          "id": "p0005",
+          "nome": "Produto 5",
+          "SKU": "9819744345",
+          "precoVenda": 630.94,
+          "quantidadeSolicitada": 1,
+          "quantidadeDisponivel": 292
+        },
+        {
+          "id": "p0004",
+          "nome": "Produto 4",
+          "SKU": "5506756637",
+          "precoVenda": 194.63,
+          "quantidadeSolicitada": 1,
+          "quantidadeDisponivel": 107
+        },
+        {
+          "id": "p0008",
+          "nome": "Produto 8",
+          "SKU": "3263087259",
+          "precoVenda": 566.59,
+          "quantidadeSolicitada": 1,
+          "quantidadeDisponivel": 44
+        },
+        {
+          "id": "p0007",
+          "nome": "Produto 7",
+          "SKU": "8376412875",
+          "precoVenda": 326.84,
+          "quantidadeSolicitada": 1,
+          "quantidadeDisponivel": 110
+        },
+        {
+          "id": "p0009",
+          "nome": "Produto 9",
+          "SKU": "4443582807",
+          "precoVenda": 543.18,
+          "quantidadeSolicitada": 1,
+          "quantidadeDisponivel": 51
+        }
+      ]
     }
   ]
 }
